@@ -1,0 +1,150 @@
+{
+  "status": "ok",
+  "totalResults": 12,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ryan Gaydos",
+      "title": "Ex-NFL star Marshawn Lynch sets sail for virtual high seas, leaving football life behind",
+      "description": "Former NFL star running back Marshawn Lynch went from running over opponents on the field to trying to stymie them on the virtual seas.",
+      "url": "https://www.foxnews.com/sports/ex-nfl-star-marshawn-lynch-sets-sails-virtual-high-seas-leaving-football-life-behind",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Marshawn-Lynch2.jpg",
+      "publishedAt": "2024-02-08T11:00:44Z",
+      "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+2501 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Emily Stewart",
+      "title": "Why NFL, Super Bowl ratings are soaring despite fewer Americans watching TV",
+      "description": "Movies, TV, and even other sports are struggling to grab an audience. But football is the one thing that can still bring everyone together.",
+      "url": "http://www.businessinsider.com/nfl-tv-ratings-playoffs-super-bowl-streaming-broadcast-americans-culture-2024-2",
+      "urlToImage": "https://i.insider.com/65c3eaa043bb77284ba4a984?width=1200&format=jpeg",
+      "publishedAt": "2024-02-08T10:23:01Z",
+      "content": "The NFL\r\n is America's favorite TV show. At a moment when people are tuning out of a lot of what's on broadcast and cable, the league is the one entity that manages to keep Americans glued to their s… [+5939 chars]"
+    },
+    
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ryan Gaydos",
+      "title": "NFL legend gets real about Brock Purdy's 'game manager' label ahead of 49ers' Super Bowl appearance",
+      "description": "Pro Football Hall of Famer Warren Moon dismissed San Francisco 49ers quarterback Brock Purdy's \"game manager\" label in an interview with Fox News Digital.",
+      "url": "https://www.foxnews.com/sports/nfl-legend-gets-real-brock-purdy-game-manager-label-49ers-super-bowl-appearance",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/b673b52e-Brock-Purdy.jpg",
+      "publishedAt": "2024-02-08T09:25:33Z",
+      "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+2742 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "Latest football news - FA Cup reaction & Nations League draw",
+      "description": "Reaction from FA Cup fourth round replays as Chelsea and Nottingham Forest advance, plus build-up to the draw for the 2023-24 Nations League campaign.",
+      "url": "http://www.bbc.co.uk/sport/football/live/czd7jxpkwn5t",
+      "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+      "publishedAt": "2024-02-08T07:07:11.3433481Z",
+      "content": "Hello, folks. Is there snow where you are yet? Let us know as we go along today. \r\nWednesday night was packed with joyous scenes for some and utter heartbreak for the others. \r\nChelsea and Nottingham… [+464 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "Elliot Nash",
+      "title": "Taylor Swift to cost footy fans $44 billion",
+      "description": "Super Bowl LVIII is not just about football; it’s a spectacle of entertainment, and this year, the betting markets have taken it to a whole new level of excitement. Sportsbet, Australia’s leading betting platform, has rolled out an array of outrageous odds, p…",
+      "url": "https://www.news.com.au/sport/nfl/super-bowl-2024-betting-madness-taylor-swift-travis-kelce-to-cost-punters-billions/news-story/9e7474ea0b7692a0c325ff00d2dd5d1e",
+      "urlToImage": "https://content.api.news/v3/images/bin/48897881fa45833190e986e44c4a58a2",
+      "publishedAt": "2024-02-08T06:52:00Z",
+      "content": "Super Bowl LVIII is not just about football; it’s a spectacle of entertainment, and this year, the betting markets have taken it to a whole new level of excitement. Sportsbet, Australia’s leading bet… [+5017 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": null,
+      "title": "National Football League\n     <!----> \n        Kyle Shanahan can't wait for this chance to avenge past Super Bowl letdowns\n       \n      9 hours ago",
+      "description": null,
+      "url": "http://www.foxsports.com/stories/nfl/kyle-shanahan-cant-wait-for-chance-avenge-past-super-bowl-letdowns",
+      "urlToImage": null,
+      "publishedAt": "2024-02-08T02:07:09.359359Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": null,
+      "title": "Super Bowl predictions: Experts pick between 49ers and Chiefs for SB LVIII",
+      "description": "FOX Sports' staff of football writers deliver their predictions on who will be left holding the Lombardi Trophy on Sunday night at Allegiant Stadium.",
+      "url": "http://www.foxsports.com/stories/nfl/super-bowl-predictions-experts-pick-between-49ers-and-chiefs-for-sb-lviii",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-04_Super-Bowl-Predictions_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-06T17:34:47Z",
+      "content": "As the 2003 NFL season winds to a close, there is just one order of business left to settle: seeing which team will win Super Bowl LVIII in Las Vegas.\r\nWill it be the Patrick Mahomes-led Kansas City … [+5581 chars]"
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": "David Kenyon",
+      "title": "Unique Stats from the 2023 College Football Regular Season",
+      "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+      "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+      "publishedAt": "2023-12-12T12:00:00Z",
+      "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "161385360554578",
+      "title": "Rice rescues Arsenal, Arteta evades Raya question, more Premier League build-up",
+      "description": "talkSPORT.com brings you all the latest news, views and gossip from the world of football. Today’s headlines: Mikel Arteta dodges David Raya question after goalkeeper’s errors Declan Ri…",
+      "url": "https://talksport.com/football/1667216/football-news-live-arsenal-mikel-arteta-david-raya-premier-league/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/12/jw-TALKSPORT-BLOG-06-12.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-12-06T09:06:42Z",
+      "content": "Mikel Arteta didn't provide a straight answer when asked about David Raya's struggles during Arsenal's win at Luton.\r\nArsenal claimed a dramatic last-gasp win at Kenilworth Road with Declan Rice's st… [+1106 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Josh Fordham",
+      "title": "Tottenham fans feared relegation without Harry Kane but Ange Postecoglou has got them scoring more...",
+      "description": "Tottenham losing Harry Kane in the summer sent the fans into crisis mode and you can’t blame them. Not only was he their record goalscorer, but also one of the best strikers in world football seaso…",
+      "url": "https://talksport.com/football/1666888/tottenham-goals-harry-kane-ange-postecoglou/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/12/Kane_Postecoglou-Comp.png?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-12-05T17:57:19Z",
+      "content": "Tottenham losing Harry Kane in the summer sent the fans into crisis mode and you cant blame them.\r\nNot only was he their record goalscorer, but also one of the best strikers in world football season … [+2220 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
